@@ -1,0 +1,4 @@
+int sayi1 = 10
+int sayi2 = 12
+int sonuc = sayi1 + sayi2
+print("toplama sonucu: ")
